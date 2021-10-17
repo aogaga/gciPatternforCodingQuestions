@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="slidingWindow.SlidingWindowTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-10-14T20:41:50" hostname="OgheneogagasMBP.attlocal.net" time="0.312">
+  <properties/>
+  <testcase name="find Minimum SubArray" classname="slidingWindow.SlidingWindowTest" time="0.312">
+    <failure message="Condition not satisfied:&#10;&#10;result == 1&#10;|      |&#10;2      false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+result == 1
+|      |
+2      false
+
+	at slidingWindow.SlidingWindowTest.find Minimum SubArray(SlidingWindowTest.groovy:55)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
