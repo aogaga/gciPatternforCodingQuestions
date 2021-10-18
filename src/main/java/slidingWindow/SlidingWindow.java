@@ -97,4 +97,17 @@ public class SlidingWindow {
 
     return  count;
   }
+
+  public  int findLength(String str, int k) {
+    String longest = "";
+
+    for(int i = 0; i < str.length(); k++){
+
+    }
+
+    return longest.length();
+
+  }
+
+
 }
